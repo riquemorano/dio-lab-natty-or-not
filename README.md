@@ -1,51 +1,25 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🌿 Verde Vibrante: O Guia Gastronômico "Natty" ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é um mini guia gastronômico que desafia a percepção visual. Através de IAs Generativas, criei receitas vegetarianas de alta gastronomia com fotografias tão realistas que parecem ter sido tiradas em uma cozinha profissional, e não geradas por algoritmos. O objetivo é mostrar como a tecnologia pode elevar a apresentação de conteúdos sobre estilo de vida.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* **Gemini 1.5 Pro:** Para a curadoria das receitas e estruturação do texto técnico.
+* **Nano Banana 2 (Gemini 3 Flash Image):** Para a geração das imagens ultra-realistas com foco em texturas orgânicas e iluminação natural.
+* **GitHub:** Para versionamento e exposição do portfólio.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1.  **Conceituação:** Como vegetariano desde os 18 anos, escolhi pratos que unissem estética e nutrição.
+2.  **Engenharia de Prompt:** Foquei em termos de fotografia profissional (*bokeh*, *depth of field*, *soft lighting*) para garantir que as imagens não tivessem o brilho artificial comum em IAs.
+3.  **Refino de Conteúdo:** Utilizei a IA para garantir que as instruções culinárias fossem tecnicamente precisas, mimetizando o tom de voz de um chef.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado são dois pratos principais com um visual extremamente "Natty":
+1.  **Cannelloni de Espinafre e Ricota:** Foco em texturas cremosas e contraste de cores.
+2.  **Steak Vegetal de Couve-Flor com Quinoa:** Um exercício de mimetismo gastronômico usando páprica e grelha para simular texturas complexas.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+<img width="884" height="483" alt="image" src="https://github.com/user-attachments/assets/7a900488-7ab5-4196-abeb-8a7c026b18d0" />
+<img width="884" height="483" alt="image" src="https://github.com/user-attachments/assets/74ed6001-af12-40f9-b83b-b1a803ec68c0" />
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão (Opcio
+O desafio de criar algo "natty" com IA reside nos detalhes. A perfeição excessiva entrega o "fake". Para este projeto, o segredo foi introduzir imperfeições propositais nas descrições e prompts, como uma folha de manjericão fora do lugar ou uma sombra mais dura, tornando o resultado final assustadoramente humano.
