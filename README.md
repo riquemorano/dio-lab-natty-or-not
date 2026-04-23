@@ -21,5 +21,5 @@ O resultado são dois pratos principais com um visual extremamente "Natty":
 <img width="884" height="483" alt="image" src="https://github.com/user-attachments/assets/7a900488-7ab5-4196-abeb-8a7c026b18d0" />
 <img width="884" height="483" alt="image" src="https://github.com/user-attachments/assets/74ed6001-af12-40f9-b83b-b1a803ec68c0" />
 
-## 💭 Reflexão (Opcio
+## 💭 Reflexão
 O desafio de criar algo "natty" com IA reside nos detalhes. A perfeição excessiva entrega o "fake". Para este projeto, o segredo foi introduzir imperfeições propositais nas descrições e prompts, como uma folha de manjericão fora do lugar ou uma sombra mais dura, tornando o resultado final assustadoramente humano.
